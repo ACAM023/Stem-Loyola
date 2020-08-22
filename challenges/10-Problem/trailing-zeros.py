@@ -1,4 +1,5 @@
 def trailing_zeros(number):
+    """
     i = len(number) - 1
     zeros = []
 
@@ -12,6 +13,8 @@ def trailing_zeros(number):
         i -= 1
     
     return len(zeros)
+    """
+    return len(number) - len(number.rstrip('0'))
 
 number = input().strip()
     
