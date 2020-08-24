@@ -1,0 +1,9 @@
+/* Space adjusted for the top navigation bar */
+body {
+  padding-top: 3.7rem;
+}
+
+/* Mark the canvas borders */
+canvas {
+  border: 0.2rem solid rgb(100, 100, 100);
+}
