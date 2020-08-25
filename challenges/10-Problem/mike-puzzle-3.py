@@ -10,7 +10,7 @@ def mike_puzzle(contacts, first, second):
     score = 0
     index = 0
     
-    return 
+    return score
     
 
 contacts = int(input().strip())
