@@ -1,4 +1,7 @@
+import unittest
+
 def mike_puzzle(contacts, first, second, people):
+    """
     people = []
     i = 0
     while i < contacts:
@@ -6,6 +9,7 @@ def mike_puzzle(contacts, first, second, people):
         people.append(row)
         
         i += 1
+    """
     
     score = 0
     row = 0
@@ -48,9 +52,42 @@ def mike_puzzle(contacts, first, second, people):
     
     return "NO"
 
-
+"""
 contacts = int(input().strip())
 
 first, second = map(int, input().split())
 
 print(mike_puzzle(contacts, first, second))
+"""
+
+people = [
+        [0,10,0,13,2,0],
+        [10,0,6,0,0,0],
+        [0,6,0,5,0,0],
+        [13,0,5,0,3,17],
+        [2,0,0,3,0,0],
+        [0,0,0,17,0,0]
+    ]
+
+class TestStringMethods(unittest.TestCase):
+
+    def test_mike_puzzle(self):
+        self.assertEqual(mike_puzzle(6, 1, 3, people), "YES")
+        
+    def test_mike_puzzle(self):
+        self.assertEqual(mike_puzzle(6, 1, 2, people), "YES")
+        
+    def test_mike_puzzle(self):
+        self.assertEqual(mike_puzzle(6, 1, 5, people), "YES")
+        
+    def test_mike_puzzle(self):
+        self.assertEqual(mike_puzzle(6, 1, 4, people), "YES")
+        
+    def test_mike_puzzle(self):
+        self.assertEqual(mike_puzzle(6, 4, 6, people), "NO")
+        
+    def test_mike_puzzle(self):
+        self.assertEqual(mike_puzzle(6, 1, 6, people), "NO")
+
+if __name__ == '__main__':
+    unittest.main()
