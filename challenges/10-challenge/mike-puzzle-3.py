@@ -1,12 +1,4 @@
 def mike_puzzle(contacts, first, second, people):
-    people = []
-    i = 0
-    while i < contacts:
-        row = [*map(int, input().split())]
-        people.append(row)
-        
-        i += 1
-    
     score = 0
     row = 0
     col = 0
@@ -53,4 +45,12 @@ contacts = int(input().strip())
 
 first, second = map(int, input().split())
 
-print(mike_puzzle(contacts, first, second))
+people = []
+i = 0
+while i < contacts:
+    row = [*map(int, input().split())]
+    people.append(row)
+        
+    i += 1
+
+print(mike_puzzle(contacts, first, second, people))
