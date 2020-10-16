@@ -1,1 +1,0 @@
-Ipsum quaerat velit quaerat adipisci adipisci ipsum.

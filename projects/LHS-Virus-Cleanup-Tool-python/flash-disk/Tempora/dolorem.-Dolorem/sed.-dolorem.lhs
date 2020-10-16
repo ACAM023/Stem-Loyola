@@ -1,1 +1,0 @@
-Tempora dolorem ipsum sit adipisci velit quiquia dolor.

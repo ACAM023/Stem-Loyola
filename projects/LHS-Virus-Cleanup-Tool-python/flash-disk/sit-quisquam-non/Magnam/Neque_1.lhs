@@ -1,1 +1,0 @@
-Quaerat ipsum dolor amet dolore quisquam est.

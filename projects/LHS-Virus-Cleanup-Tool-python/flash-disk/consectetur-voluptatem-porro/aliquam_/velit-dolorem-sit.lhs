@@ -1,1 +1,0 @@
-Quaerat ipsum quisquam tempora modi non modi labore.

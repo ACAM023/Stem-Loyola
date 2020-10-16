@@ -1,1 +1,0 @@
-Numquam non etincidunt tempora magnam.

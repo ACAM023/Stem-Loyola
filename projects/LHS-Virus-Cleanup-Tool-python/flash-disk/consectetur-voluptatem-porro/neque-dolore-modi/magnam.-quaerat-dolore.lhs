@@ -1,1 +1,0 @@
-Tempora neque dolor dolor labore modi voluptatem.

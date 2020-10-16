@@ -1,1 +1,0 @@
-Tempora amet ipsum sed quaerat etincidunt velit.

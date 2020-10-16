@@ -1,1 +1,0 @@
-Quiquia numquam ut tempora.

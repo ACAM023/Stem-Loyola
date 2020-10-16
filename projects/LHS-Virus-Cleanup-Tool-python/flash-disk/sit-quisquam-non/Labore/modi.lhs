@@ -1,1 +1,0 @@
-Tempora consectetur est quaerat eius magnam voluptatem magnam.

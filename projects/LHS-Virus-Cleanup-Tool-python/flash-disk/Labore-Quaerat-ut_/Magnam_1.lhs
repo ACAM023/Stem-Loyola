@@ -1,1 +1,0 @@
-Tempora quaerat velit labore.

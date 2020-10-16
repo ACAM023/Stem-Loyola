@@ -1,1 +1,0 @@
-Ipsum amet adipisci sed dolor aliquam.

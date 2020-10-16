@@ -1,1 +1,0 @@
-Quaerat magnam amet magnam tempora tempora.

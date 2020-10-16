@@ -1,1 +1,0 @@
-Sit tempora quaerat porro dolore sed quisquam.

@@ -1,1 +1,0 @@
-Numquam non amet neque quiquia.

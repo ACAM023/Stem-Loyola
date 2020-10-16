@@ -1,1 +1,0 @@
-Tempora dolorem adipisci velit magnam ipsum tempora.

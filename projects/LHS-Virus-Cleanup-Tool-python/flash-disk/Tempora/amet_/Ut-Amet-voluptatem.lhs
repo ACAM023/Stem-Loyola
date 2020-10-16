@@ -1,1 +1,0 @@
-Neque tempora adipisci quaerat.

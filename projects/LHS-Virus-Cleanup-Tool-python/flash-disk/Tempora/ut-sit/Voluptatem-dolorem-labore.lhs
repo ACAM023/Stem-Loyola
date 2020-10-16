@@ -1,1 +1,0 @@
-Dolore quaerat tempora quaerat non quiquia.

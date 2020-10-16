@@ -1,1 +1,0 @@
-Sed etincidunt amet ipsum.

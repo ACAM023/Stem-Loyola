@@ -1,1 +1,0 @@
-Quisquam sit quaerat modi non quaerat magnam.

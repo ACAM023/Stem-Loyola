@@ -1,1 +1,0 @@
-Neque dolor amet ipsum adipisci aliquam.

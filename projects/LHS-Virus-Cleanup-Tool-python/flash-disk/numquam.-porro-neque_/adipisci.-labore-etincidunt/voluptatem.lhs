@@ -1,1 +1,0 @@
-Amet tempora non non amet magnam amet.

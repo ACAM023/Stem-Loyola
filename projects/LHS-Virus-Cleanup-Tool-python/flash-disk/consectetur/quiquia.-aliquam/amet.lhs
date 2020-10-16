@@ -1,1 +1,0 @@
-Tempora amet dolor dolore consectetur sed sed.

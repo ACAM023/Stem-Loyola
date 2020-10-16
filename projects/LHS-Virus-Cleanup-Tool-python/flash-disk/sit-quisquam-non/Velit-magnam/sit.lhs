@@ -1,1 +1,0 @@
-Ipsum quiquia sed est quaerat dolor consectetur voluptatem.

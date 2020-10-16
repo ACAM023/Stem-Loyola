@@ -1,1 +1,0 @@
-Tempora non sed dolore modi quaerat dolore.

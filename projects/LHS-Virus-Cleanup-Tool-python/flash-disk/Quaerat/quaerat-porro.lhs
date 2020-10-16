@@ -1,1 +1,0 @@
-Tempora sit adipisci quaerat.

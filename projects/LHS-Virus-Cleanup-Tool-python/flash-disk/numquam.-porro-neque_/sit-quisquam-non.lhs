@@ -1,1 +1,0 @@
-Quiquia sed tempora quaerat.

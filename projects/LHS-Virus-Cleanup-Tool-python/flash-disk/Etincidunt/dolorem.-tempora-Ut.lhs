@@ -1,1 +1,0 @@
-Numquam labore est magnam.

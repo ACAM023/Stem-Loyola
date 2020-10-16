@@ -1,1 +1,0 @@
-Quaerat ipsum magnam sed tempora.

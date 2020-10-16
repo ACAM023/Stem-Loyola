@@ -1,1 +1,0 @@
-Tempora est non labore.

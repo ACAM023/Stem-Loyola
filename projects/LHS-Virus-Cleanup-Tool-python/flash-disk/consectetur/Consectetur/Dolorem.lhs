@@ -1,1 +1,0 @@
-Tempora velit sit modi.

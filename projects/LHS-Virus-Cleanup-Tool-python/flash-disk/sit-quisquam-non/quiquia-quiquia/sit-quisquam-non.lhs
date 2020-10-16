@@ -1,1 +1,0 @@
-Aliquam quaerat sed consectetur.

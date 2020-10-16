@@ -1,1 +1,0 @@
-Amet quaerat amet sed ipsum.

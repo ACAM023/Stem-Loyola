@@ -1,1 +1,0 @@
-Dolore tempora dolore adipisci.

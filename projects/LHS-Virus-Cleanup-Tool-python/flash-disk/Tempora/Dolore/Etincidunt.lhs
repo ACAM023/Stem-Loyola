@@ -1,1 +1,0 @@
-Non modi aliquam tempora.

@@ -1,1 +1,0 @@
-Numquam magnam amet non tempora.

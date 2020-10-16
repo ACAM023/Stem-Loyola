@@ -1,1 +1,0 @@
-Dolor tempora quaerat voluptatem dolorem non etincidunt etincidunt.

@@ -1,1 +1,0 @@
-Neque tempora sit non adipisci aliquam.

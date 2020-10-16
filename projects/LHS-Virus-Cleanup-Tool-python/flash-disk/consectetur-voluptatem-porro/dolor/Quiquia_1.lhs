@@ -1,1 +1,0 @@
-Ut quaerat labore est.

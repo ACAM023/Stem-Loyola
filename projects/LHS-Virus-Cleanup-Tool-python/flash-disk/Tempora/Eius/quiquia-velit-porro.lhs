@@ -1,1 +1,0 @@
-Quiquia amet adipisci velit dolor ut quaerat.

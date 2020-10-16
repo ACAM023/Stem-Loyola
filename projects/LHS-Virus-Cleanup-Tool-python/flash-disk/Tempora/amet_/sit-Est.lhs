@@ -1,1 +1,0 @@
-Numquam non aliquam quaerat quisquam quisquam porro.

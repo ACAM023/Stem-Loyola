@@ -1,1 +1,0 @@
-Quaerat amet quisquam non ut numquam.

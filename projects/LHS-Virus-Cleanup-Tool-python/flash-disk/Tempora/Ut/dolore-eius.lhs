@@ -1,1 +1,0 @@
-Sed neque non magnam neque tempora est magnam.

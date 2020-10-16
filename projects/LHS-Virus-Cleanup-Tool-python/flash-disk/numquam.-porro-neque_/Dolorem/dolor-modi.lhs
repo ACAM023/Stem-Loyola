@@ -1,1 +1,0 @@
-Aliquam velit quaerat ipsum tempora dolor dolore.

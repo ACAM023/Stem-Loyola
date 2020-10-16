@@ -1,1 +1,0 @@
-Non ut quisquam est labore.

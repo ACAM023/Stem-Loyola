@@ -1,1 +1,0 @@
-Quaerat ipsum quiquia sed dolorem voluptatem amet magnam.

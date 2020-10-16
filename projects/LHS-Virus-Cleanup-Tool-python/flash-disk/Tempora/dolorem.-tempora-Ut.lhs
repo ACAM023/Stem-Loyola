@@ -1,1 +1,0 @@
-Quisquam est neque labore.

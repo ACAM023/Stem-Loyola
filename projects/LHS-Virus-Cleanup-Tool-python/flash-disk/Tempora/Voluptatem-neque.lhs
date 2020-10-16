@@ -1,1 +1,0 @@
-Eius tempora non dolor.

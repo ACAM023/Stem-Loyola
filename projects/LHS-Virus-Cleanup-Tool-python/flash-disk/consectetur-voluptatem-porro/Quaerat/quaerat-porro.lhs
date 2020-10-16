@@ -1,1 +1,0 @@
-Tempora quisquam quaerat magnam labore quaerat.

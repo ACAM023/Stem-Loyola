@@ -1,1 +1,0 @@
-Labore modi sed adipisci.

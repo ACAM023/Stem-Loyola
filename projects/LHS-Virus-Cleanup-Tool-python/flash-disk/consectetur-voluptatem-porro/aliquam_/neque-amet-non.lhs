@@ -1,1 +1,0 @@
-Quaerat tempora est dolore ut quiquia.

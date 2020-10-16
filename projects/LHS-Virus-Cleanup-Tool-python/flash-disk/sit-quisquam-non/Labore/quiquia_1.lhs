@@ -1,1 +1,0 @@
-Tempora sit sit quisquam.

@@ -1,1 +1,0 @@
-Non adipisci dolorem quaerat.

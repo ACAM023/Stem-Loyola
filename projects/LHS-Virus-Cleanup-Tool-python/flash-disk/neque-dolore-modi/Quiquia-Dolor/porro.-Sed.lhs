@@ -1,1 +1,0 @@
-Quisquam ipsum adipisci amet.

@@ -1,1 +1,0 @@
-Tempora aliquam magnam quisquam quisquam.

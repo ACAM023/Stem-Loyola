@@ -1,1 +1,0 @@
-Ipsum aliquam quaerat aliquam.

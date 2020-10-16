@@ -1,1 +1,0 @@
-Dolor aliquam dolore tempora ipsum sit quaerat dolorem.

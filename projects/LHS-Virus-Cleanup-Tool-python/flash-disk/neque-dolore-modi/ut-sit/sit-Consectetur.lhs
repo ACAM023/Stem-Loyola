@@ -1,1 +1,0 @@
-Tempora magnam adipisci velit aliquam consectetur voluptatem magnam.

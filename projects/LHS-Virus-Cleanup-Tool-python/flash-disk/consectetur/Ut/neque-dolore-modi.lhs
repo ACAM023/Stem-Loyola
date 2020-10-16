@@ -1,1 +1,0 @@
-Modi est non quaerat.

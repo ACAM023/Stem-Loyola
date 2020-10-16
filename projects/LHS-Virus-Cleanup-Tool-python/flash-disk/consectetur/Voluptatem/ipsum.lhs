@@ -1,1 +1,0 @@
-Tempora quiquia est magnam.

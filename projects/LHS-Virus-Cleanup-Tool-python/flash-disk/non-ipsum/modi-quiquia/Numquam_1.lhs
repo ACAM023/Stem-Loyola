@@ -1,1 +1,0 @@
-Adipisci est ut tempora non magnam adipisci tempora.

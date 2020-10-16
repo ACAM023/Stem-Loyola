@@ -1,1 +1,0 @@
-Magnam aliquam quaerat tempora quisquam.

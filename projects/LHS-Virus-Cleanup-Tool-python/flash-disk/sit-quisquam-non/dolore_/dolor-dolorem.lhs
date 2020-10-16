@@ -1,1 +1,0 @@
-Sit quisquam sed est tempora.

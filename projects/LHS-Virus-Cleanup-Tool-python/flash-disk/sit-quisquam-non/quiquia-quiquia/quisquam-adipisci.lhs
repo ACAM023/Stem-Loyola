@@ -1,1 +1,0 @@
-Dolorem dolore consectetur quiquia est aliquam tempora quaerat.

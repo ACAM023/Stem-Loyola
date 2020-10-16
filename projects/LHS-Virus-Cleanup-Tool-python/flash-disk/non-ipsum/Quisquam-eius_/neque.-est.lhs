@@ -1,1 +1,0 @@
-Ipsum quaerat tempora tempora ipsum non etincidunt.

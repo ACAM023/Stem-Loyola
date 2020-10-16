@@ -1,1 +1,0 @@
-Amet etincidunt tempora quaerat dolore numquam voluptatem.

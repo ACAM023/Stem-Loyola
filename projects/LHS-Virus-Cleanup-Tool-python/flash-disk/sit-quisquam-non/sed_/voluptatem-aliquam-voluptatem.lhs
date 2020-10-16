@@ -1,1 +1,0 @@
-Quaerat velit non sit neque modi quaerat.

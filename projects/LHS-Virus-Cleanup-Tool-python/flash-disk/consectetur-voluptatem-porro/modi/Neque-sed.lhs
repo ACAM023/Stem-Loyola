@@ -1,1 +1,0 @@
-Quaerat neque consectetur quisquam.

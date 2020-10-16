@@ -1,1 +1,0 @@
-Quaerat magnam dolorem dolor tempora.

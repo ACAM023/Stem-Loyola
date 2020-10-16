@@ -1,1 +1,0 @@
-Tempora dolore neque magnam quaerat.

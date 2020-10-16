@@ -1,1 +1,0 @@
-Tempora non ipsum ipsum.

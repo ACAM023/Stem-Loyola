@@ -1,1 +1,0 @@
-Modi quaerat sed est modi labore.

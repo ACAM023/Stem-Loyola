@@ -1,1 +1,0 @@
-Quaerat ipsum adipisci consectetur tempora dolore quaerat.

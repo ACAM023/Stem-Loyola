@@ -1,1 +1,0 @@
-Amet aliquam ipsum labore quaerat.

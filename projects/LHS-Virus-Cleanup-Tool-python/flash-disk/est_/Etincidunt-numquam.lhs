@@ -1,1 +1,0 @@
-Dolor tempora dolore quaerat sit labore aliquam.

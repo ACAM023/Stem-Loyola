@@ -1,1 +1,0 @@
-Dolor consectetur quaerat aliquam adipisci velit.

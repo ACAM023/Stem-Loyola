@@ -1,1 +1,0 @@
-Quaerat adipisci quiquia amet.

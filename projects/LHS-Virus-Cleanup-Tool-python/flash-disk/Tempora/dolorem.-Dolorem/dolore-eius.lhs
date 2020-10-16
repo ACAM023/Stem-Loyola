@@ -1,1 +1,0 @@
-Quisquam neque dolor est non tempora quaerat.

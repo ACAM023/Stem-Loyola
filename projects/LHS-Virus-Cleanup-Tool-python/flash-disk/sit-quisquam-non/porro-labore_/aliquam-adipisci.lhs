@@ -1,1 +1,0 @@
-Tempora amet consectetur dolor.

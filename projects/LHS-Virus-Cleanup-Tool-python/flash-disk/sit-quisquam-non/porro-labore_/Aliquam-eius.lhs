@@ -1,1 +1,0 @@
-Magnam est tempora dolore.

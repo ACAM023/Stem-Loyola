@@ -1,1 +1,0 @@
-Tempora ipsum dolore ipsum tempora tempora voluptatem.

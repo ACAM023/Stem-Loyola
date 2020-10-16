@@ -1,1 +1,0 @@
-Sit consectetur adipisci dolorem ipsum.

@@ -1,1 +1,0 @@
-Non magnam quaerat est sed adipisci magnam modi.

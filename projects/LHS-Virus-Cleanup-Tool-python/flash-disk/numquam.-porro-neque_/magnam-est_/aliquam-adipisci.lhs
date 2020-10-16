@@ -1,1 +1,0 @@
-Non sit sit tempora sit.

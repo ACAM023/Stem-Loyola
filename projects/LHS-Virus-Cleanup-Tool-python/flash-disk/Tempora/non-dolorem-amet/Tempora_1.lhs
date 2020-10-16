@@ -1,1 +1,0 @@
-Tempora est ipsum quaerat tempora.

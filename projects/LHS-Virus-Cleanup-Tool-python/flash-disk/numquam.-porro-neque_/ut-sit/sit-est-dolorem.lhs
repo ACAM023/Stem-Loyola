@@ -1,1 +1,0 @@
-Porro non adipisci tempora.

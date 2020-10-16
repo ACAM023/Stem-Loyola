@@ -1,1 +1,0 @@
-Modi tempora numquam quaerat.

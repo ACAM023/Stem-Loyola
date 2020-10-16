@@ -1,1 +1,0 @@
-Ipsum quaerat dolorem non ipsum.

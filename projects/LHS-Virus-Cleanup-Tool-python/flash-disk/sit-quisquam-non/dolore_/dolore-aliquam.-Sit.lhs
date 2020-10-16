@@ -1,1 +1,0 @@
-Numquam tempora numquam est.

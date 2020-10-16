@@ -1,1 +1,0 @@
-Numquam magnam tempora est modi tempora modi.

@@ -1,1 +1,0 @@
-Velit non tempora labore est magnam quaerat.

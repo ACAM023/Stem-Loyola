@@ -1,1 +1,0 @@
-Tempora non ut neque.

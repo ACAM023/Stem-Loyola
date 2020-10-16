@@ -1,1 +1,0 @@
-Labore est non tempora tempora sit adipisci.

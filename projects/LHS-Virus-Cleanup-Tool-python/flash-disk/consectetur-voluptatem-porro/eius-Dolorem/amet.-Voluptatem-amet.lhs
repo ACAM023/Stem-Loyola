@@ -1,1 +1,0 @@
-Numquam amet labore tempora non.

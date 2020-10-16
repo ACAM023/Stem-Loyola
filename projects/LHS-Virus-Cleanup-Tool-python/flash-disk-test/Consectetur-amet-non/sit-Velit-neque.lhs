@@ -1,1 +1,0 @@
-Ipsum numquam consectetur dolor est tempora sed quaerat.

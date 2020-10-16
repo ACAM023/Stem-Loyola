@@ -1,1 +1,0 @@
-Labore magnam tempora labore quaerat modi tempora.

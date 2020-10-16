@@ -1,1 +1,0 @@
-Quiquia neque tempora dolorem dolore ipsum tempora.

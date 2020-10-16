@@ -1,1 +1,0 @@
-Non neque ipsum quisquam adipisci.

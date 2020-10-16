@@ -1,1 +1,0 @@
-Quaerat quisquam tempora non porro.

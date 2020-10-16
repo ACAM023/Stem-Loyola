@@ -1,1 +1,0 @@
-Tempora numquam amet non.

@@ -1,1 +1,0 @@
-Numquam modi non non tempora est non.

@@ -1,1 +1,0 @@
-Modi non neque tempora modi.

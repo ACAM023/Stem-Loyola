@@ -1,1 +1,0 @@
-Quaerat non modi aliquam.

@@ -1,1 +1,0 @@
-Numquam quisquam numquam modi.

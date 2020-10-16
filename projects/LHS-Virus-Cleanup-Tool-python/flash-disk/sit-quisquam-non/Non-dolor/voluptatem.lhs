@@ -1,1 +1,0 @@
-Neque tempora magnam est quaerat est ut quaerat.

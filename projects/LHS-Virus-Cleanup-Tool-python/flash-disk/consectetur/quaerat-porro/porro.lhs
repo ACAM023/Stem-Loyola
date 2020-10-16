@@ -1,1 +1,0 @@
-Tempora quaerat sit non sit.

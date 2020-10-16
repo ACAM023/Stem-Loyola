@@ -1,1 +1,0 @@
-Ipsum amet sit quaerat non dolore tempora.

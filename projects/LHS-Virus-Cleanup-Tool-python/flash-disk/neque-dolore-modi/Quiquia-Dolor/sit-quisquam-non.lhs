@@ -1,1 +1,0 @@
-Numquam ipsum adipisci tempora adipisci.

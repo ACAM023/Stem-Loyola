@@ -1,1 +1,0 @@
-Numquam non sit quaerat amet dolor ipsum velit.

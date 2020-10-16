@@ -1,1 +1,0 @@
-Ipsum quaerat sit tempora adipisci tempora dolor quiquia.

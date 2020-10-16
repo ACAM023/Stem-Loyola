@@ -1,1 +1,0 @@
-Quisquam non est quaerat aliquam.

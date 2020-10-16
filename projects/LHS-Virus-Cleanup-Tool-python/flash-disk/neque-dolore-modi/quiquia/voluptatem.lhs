@@ -1,1 +1,0 @@
-Magnam amet sit tempora est.

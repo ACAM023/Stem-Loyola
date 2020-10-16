@@ -1,1 +1,0 @@
-Magnam quaerat consectetur ipsum labore.

@@ -1,1 +1,0 @@
-Quisquam non tempora adipisci est.

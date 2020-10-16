@@ -1,1 +1,0 @@
-Tempora ut quisquam numquam.

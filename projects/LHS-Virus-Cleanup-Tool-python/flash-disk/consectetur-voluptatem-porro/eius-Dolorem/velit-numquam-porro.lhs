@@ -1,1 +1,0 @@
-Amet quaerat quisquam amet velit ipsum velit.

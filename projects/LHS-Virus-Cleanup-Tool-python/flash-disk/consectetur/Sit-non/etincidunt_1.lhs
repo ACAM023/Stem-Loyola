@@ -1,1 +1,0 @@
-Quaerat numquam non dolor.

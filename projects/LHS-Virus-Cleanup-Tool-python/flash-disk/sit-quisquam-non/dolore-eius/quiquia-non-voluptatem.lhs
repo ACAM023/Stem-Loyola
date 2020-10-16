@@ -1,1 +1,0 @@
-Quaerat neque ipsum etincidunt adipisci ipsum dolorem ipsum.

@@ -1,1 +1,0 @@
-Quaerat dolor ipsum eius non est tempora.

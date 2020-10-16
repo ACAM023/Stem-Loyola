@@ -1,1 +1,0 @@
-Magnam quaerat voluptatem quaerat dolorem.

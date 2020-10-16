@@ -1,1 +1,0 @@
-Dolor est amet tempora amet.

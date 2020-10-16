@@ -1,1 +1,0 @@
-Tempora dolore amet quiquia quaerat dolore ipsum amet.

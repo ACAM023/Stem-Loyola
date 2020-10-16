@@ -1,1 +1,0 @@
-Non tempora dolor neque dolore neque numquam sit.

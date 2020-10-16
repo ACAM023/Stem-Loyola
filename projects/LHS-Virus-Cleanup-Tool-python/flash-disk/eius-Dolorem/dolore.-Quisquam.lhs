@@ -1,1 +1,0 @@
-Ipsum quaerat sed dolor neque eius magnam velit.

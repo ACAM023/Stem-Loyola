@@ -1,1 +1,0 @@
-Non quaerat sit quiquia tempora dolor.

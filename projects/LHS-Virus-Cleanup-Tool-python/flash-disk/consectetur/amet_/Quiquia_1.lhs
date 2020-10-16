@@ -1,1 +1,0 @@
-Tempora magnam neque adipisci sit dolorem labore labore.

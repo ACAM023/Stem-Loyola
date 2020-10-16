@@ -1,1 +1,0 @@
-Ipsum tempora non sed aliquam est quaerat labore.

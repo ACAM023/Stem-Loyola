@@ -1,1 +1,0 @@
-Sed quaerat quisquam numquam.

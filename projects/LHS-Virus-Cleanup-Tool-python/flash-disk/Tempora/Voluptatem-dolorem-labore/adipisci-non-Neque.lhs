@@ -1,1 +1,0 @@
-Tempora magnam quisquam est neque.

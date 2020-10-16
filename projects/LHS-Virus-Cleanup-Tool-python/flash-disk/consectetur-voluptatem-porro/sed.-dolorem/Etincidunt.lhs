@@ -1,1 +1,0 @@
-Non adipisci tempora non.

@@ -1,1 +1,0 @@
-Quaerat ipsum adipisci ut sit magnam.

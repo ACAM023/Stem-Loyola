@@ -1,1 +1,0 @@
-Tempora est aliquam quaerat magnam.

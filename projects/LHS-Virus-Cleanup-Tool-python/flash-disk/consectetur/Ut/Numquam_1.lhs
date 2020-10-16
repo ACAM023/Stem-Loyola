@@ -1,1 +1,0 @@
-Quaerat quiquia sed quiquia.

@@ -1,1 +1,0 @@
-Quaerat quaerat magnam amet.

@@ -1,1 +1,0 @@
-Amet magnam adipisci quaerat tempora.

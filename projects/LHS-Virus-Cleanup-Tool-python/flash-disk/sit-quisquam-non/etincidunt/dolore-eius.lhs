@@ -1,1 +1,0 @@
-Dolore tempora non sit amet.

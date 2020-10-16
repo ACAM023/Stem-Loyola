@@ -1,1 +1,0 @@
-Ipsum aliquam dolore ipsum amet quaerat.

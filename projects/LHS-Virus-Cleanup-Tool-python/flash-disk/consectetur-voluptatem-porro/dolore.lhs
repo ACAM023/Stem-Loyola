@@ -1,1 +1,0 @@
-Amet tempora amet sed.
